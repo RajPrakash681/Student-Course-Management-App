@@ -15,7 +15,7 @@ A Spring Boot MVC application to manage **Students** and **Courses** with full C
 - 📋 **List** all students and courses
 - ➕ **Create** new students/courses via forms
 - ✏️ **Update** existing records
-- 🔗 **Enrollment Join View** — JPQL INNER JOIN showing student-course pairs
+- 🔗 **Enrollment Join View**  JPQL INNER JOIN showing student-course pairs
 - 🛡️ **Validation** — email uniqueness, field constraints with inline error messages
 - 🌱 **Auto-seeded** — 10 Students + 10 Courses on startup
 
